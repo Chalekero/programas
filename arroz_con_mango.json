@@ -1,0 +1,56 @@
+```json
+{
+  "updated_at": "2026-05-28",
+
+  "portada_url": "https://i.imgur.com/banner.jpg",
+
+  "perfil_url": "https://i.imgur.com/perfil_programa.png",
+
+  "name_programa": "ARROZ CON MANGO",
+
+  "name_locutor": "CHALEKERO",
+
+  "tipo_programa": "Programa de entretenimiento",
+
+  "acerca_de": "Un espacio lleno de música, humor, interacción y muchas sorpresas. Aquí el arroz se mezcla con el mango para crear la combinación perfecta de diversión. El sabor que te acompaña cada día en SUPERNOVA 92.7 FM.",
+
+  "horario": {
+    "dias": "Lunes a Viernes",
+    "hora_inicio": "06:00 PM",
+    "hora_fin": "08:00 PM"
+  },
+
+  "redes": {
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "tiktok": "https://tiktok.com/",
+    "youtube": "https://youtube.com/",
+    "whatsapp": "https://wa.me/"
+  },
+
+  "sobre_conductor": {
+    "nombre": "CHALEKERO",
+
+    "descripcion": "Locutor, productor y creador de contenido con más de 10 años de experiencia en medios de comunicación y entretenimiento. Apasionado por la radio y por llevar alegría a cada oyente.",
+
+    "foto": "https://i.imgur.com/conductor.png"
+  },
+
+  "galeria": [
+    "https://i.imgur.com/1.jpg",
+    "https://i.imgur.com/2.jpg",
+    "https://i.imgur.com/3.jpg",
+    "https://i.imgur.com/4.jpg"
+  ],
+
+  "hablemos": {
+    "titulo": "¡Hablemos!",
+
+    "mensaje": "Queremos leerte y saber lo que opinas. Escríbenos por WhatsApp o en nuestras redes sociales.",
+
+    "boton_texto": "ENVIAR MENSAJE",
+
+    "boton_url": "https://wa.me/584127871663"
+  }
+}
+```
