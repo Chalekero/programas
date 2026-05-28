@@ -1,20 +1,18 @@
 {
   "id": "arroz_con_mango",
   "updated_at": "2026-05-28",
-  "cover_url": "https://i.imgur.com/banner.jpg",
-  "profile_url": "https://i.imgur.com/perfil_programa.png",
-  "host_name": "CHALEKERO",
+  "cover_url": "https://i.imgur.com/BQSq4WQ.png",
+  "host_name": "CHALEKERO & SARINYA JIMENEZ",
   "program_type": "Programa de entretenimiento",
-  "about": "Un espacio lleno de música, humor, interacción y muchas sorpresas.",
+  "about": "Un espacio lleno de música vareada, humor, interacción y muchas sorpresas.",
   "host_info": {
     "description": "Locutor, productor y creador de contenido con más de 10 años de experiencia.",
-    "photo": "https://i.imgur.com/conductor.png"
   },
   "gallery": [
-    "https://i.imgur.com/1.jpg",
-    "https://i.imgur.com/2.jpg",
-    "https://i.imgur.com/3.jpg",
-    "https://i.imgur.com/4.jpg"
+    "https://i.imgur.com/BQSq4WQ.png",
+    "https://i.imgur.com/BOSgY9T.pn",
+    "https://i.imgur.com/BQoxVMl.png",
+    "https://i.imgur.com/BQSq4WQ.png"
   ],
   "contact": {
     "title": "¡Hablemos!",
