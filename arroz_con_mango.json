@@ -1,56 +1,24 @@
 {
   "id": "arroz_con_mango",
-
   "updated_at": "2026-05-28",
-
   "cover_url": "https://i.imgur.com/banner.jpg",
-
   "profile_url": "https://i.imgur.com/perfil_programa.png",
-
-  "program_name": "ARROZ CON MANGO",
-
   "host_name": "CHALEKERO",
-
   "program_type": "Programa de entretenimiento",
-
   "about": "Un espacio lleno de música, humor, interacción y muchas sorpresas.",
-
-  "schedule": {
-    "days": "Lunes a Viernes",
-    "start": "06:00 PM",
-    "end": "08:00 PM"
-  },
-
-  "socials": {
-    "facebook": "https://facebook.com/",
-    "instagram": "https://instagram.com/",
-    "tiktok": "https://tiktok.com/",
-    "youtube": "https://youtube.com/",
-    "whatsapp": "https://wa.me/"
-  },
-
   "host_info": {
-    "name": "CHALEKERO",
-
     "description": "Locutor, productor y creador de contenido con más de 10 años de experiencia.",
-
     "photo": "https://i.imgur.com/conductor.png"
   },
-
   "gallery": [
     "https://i.imgur.com/1.jpg",
     "https://i.imgur.com/2.jpg",
     "https://i.imgur.com/3.jpg",
     "https://i.imgur.com/4.jpg"
   ],
-
   "contact": {
     "title": "¡Hablemos!",
-
     "message": "Queremos leerte y saber lo que opinas.",
-
-    "button_text": "ENVIAR MENSAJE",
-
-    "button_url": "https://wa.me/584127871663"
+    "button_text": "ENVIAR MENSAJE"
   }
 }
